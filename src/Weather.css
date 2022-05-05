@@ -31,13 +31,13 @@
 }
 
 .Weather canvas {
-  height: 70px;
-  width: 70px;
+  height: 64px;
+  width: 64px;
   margin-right: 10px;
   display: inline-block;
   position: relative;
   line-height: 1;
-  top: -15px;
+  top: 5px;
 }
 
 .Weather .temperature {
